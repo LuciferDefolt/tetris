@@ -1,0 +1,4 @@
+﻿  Tetris.cpp
+C:\Users\Devold\source\repos\Tetris\Tetris\Tetris.cpp(65,28): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Devold\source\repos\Tetris\Tetris\Tetris.cpp(74,28): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  Tetris.vcxproj -> C:\Users\Devold\source\repos\Tetris\Debug\Tetris.exe
